@@ -2,10 +2,8 @@
 
 Opgave 3
 * Kryds og bolle
-* 2D array
 * CPU spiller?
-* PvP
-* 4x4
+* ?x?
 
 Lav et tic-tac-toe-spil til to spillere, der spiller imod hinanden og tager ture skiftevis.
 Med lidt ambition kan du udvide spillet til et større spillefelt end 3x3.
