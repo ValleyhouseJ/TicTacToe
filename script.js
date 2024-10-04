@@ -1,6 +1,6 @@
 //Sætter boardSize til valgfrit tal, board til et 2D-array med 'valgfrit tal x valgfrit tal' celler
 // og currentPlayer til "X" som er den første spiller
-const boardSize = 3;
+const boardSize = 10;
 //from metoden laver et nyt array fra et eksisterende array og i dette tilfælde laver den et nyt array fra et array af tomme strenge
 let board = Array.from({ length: boardSize }, () => Array(boardSize).fill(""));
 let currentPlayer = "X";
